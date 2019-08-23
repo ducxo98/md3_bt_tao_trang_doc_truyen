@@ -1,0 +1,63 @@
+#logoAndSeach{
+    /*border: solid 1px black;*/
+    background-color: antiquewhite;
+    width: 100%;
+    height: 200px;
+}
+.image{
+    margin-top: 10%;
+    margin-left: 20px;
+    float: left;
+    display: inline-block;
+    width: 30%;
+    height: 30%;
+
+}
+
+h1{
+    display: inline-block;
+    float: left;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+#inputSeach{
+    display: inline-block;
+    float: right;
+    width: 60%;
+    height: 50px;
+    margin-top: 55px;
+    background-color: coral;
+    border: solid 2px black;
+}
+#inputOption{
+    margin-left: 65px;
+    margin-top: 5px;
+    background-color: dimgrey;
+}
+#option{
+    /*border: solid 1px black;*/
+    background-color: dimgrey;
+    width: 100%;
+    height: 30px;
+}
+#content{
+    background-color: cadetblue;
+    width: 100%;
+    height: 700px;
+}
+#contentLeft{
+    border: solid 1px black;
+    width: 20%;
+    height: 100%;
+    display: inline-block;
+    float: left;
+}
+#contentRight{
+    margin-left: 10px;
+    border: solid 1px black;
+    width: 78%;
+    height: 100%;
+    display: inline-block;
+    float: left;
+}
